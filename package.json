@@ -1,0 +1,22 @@
+{
+  "name": "cse-34-project1",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan581994/cse-34-project1.git"
+  },
+  "author": "Steven Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan581994/cse-34-project1/issues"
+  },
+  "homepage": "https://github.com/stan581994/cse-34-project1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
